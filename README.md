@@ -57,7 +57,7 @@ This project was created by **@lyluxs**, combining functionality with a lovely v
 
 **Project:** Calculadora de Chocola
 
-Made with ♡, a little creativity and lots of meows.
+Meow meow :3
 
 
 
