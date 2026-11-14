@@ -1,1 +1,65 @@
-# chocola-calculator
+# 🎀 Calculadora de Chocola ♡
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MADE%20BY-LYLUXS-ec9bbd?style=for-the-badge&labelColor=fff0f6" />
+  <img src="https://img.shields.io/badge/ANDROID-APP-f4b8d0?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა Welcome to Chocola's little world!</b>
+</p>
+
+<p align="center">
+  A cute little calculator made with love, sweetness and a little bit of meow magic. ♡
+</p>
+
+---
+
+## 🌸 About the project
+
+**Calculadora de Chocola** is a kawaii-themed Android calculator featuring a cute aesthetic inspired by Chocola.
+
+This project was created by **@lyluxs**, combining functionality with a lovely visual experience.
+
+## 🐾 Features
+
+- 🎀 Cute pink aesthetic.
+- 🧮 Calculator interface.
+- 🐱 Chocola-inspired design.
+- ✨ Custom welcome screen.
+- 💗 Made with love by LYLUXS.
+
+## 📱 Installation
+
+1. Download the latest APK from [Releases](../../releases).
+2. Open the downloaded APK on your Android device.
+3. Allow installation from unknown sources if requested.
+4. Install and enjoy Chocola! ♡
+
+## 🛠️ Technologies
+
+- Java
+- HTML5
+- CSS3
+- Android Studio
+- Android WebView
+
+## 🎀 Preview
+
+*Screenshots coming soon!*
+
+## 💌 Credits
+
+**Developer:** @lyluxs
+
+**Project:** Calculadora de Chocola
+
+Made with ♡, a little creativity and lots of meows.
+
+---
+
+<p align="center">
+  <b>♡ made by LYLUXS ♡</b>
+  <br/>
+  <i>Thanks for visiting! ฅ^•ﻌ•^ฅ</i>
+</p>
