@@ -55,6 +55,14 @@ This project was created by **@lyluxs**, combining functionality with a lovely v
 
 Made with ♡, a little creativity and lots of meows.
 
+## 🎀 Screenshots
+
+<p align="center">
+  <img src="screenshots/calculator.jpg" width="220">
+  <img src="screenshots/app-icon.jpg" width="220">
+  <img src="screenshots/calculator-final.png" width="220">
+</p>
+
 ---
 
 <p align="center">
