@@ -24,12 +24,11 @@ This project was created by **@lyluxs**, combining functionality with a lovely v
 ## 🐾 Features
 
 - 🎀 Cute pink aesthetic.
-- 🧮 Calculator interface.
-- 🐱 Chocola-inspired design.
-- ✨ Custom welcome screen.
-- 💗 Made with love by LYLUXS.
+- 🎀 Calculator interface.
+- 🎀 Chocola-inspired design.
+- 🎀 Made with love by LYLUXS.
 
-## 📱 Installation
+## 💗 Installation
 
 1. Download the latest APK from [Releases](../../releases).
 2. Open the downloaded APK on your Android device.
