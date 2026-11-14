@@ -45,7 +45,11 @@ This project was created by **@lyluxs**, combining functionality with a lovely v
 
 ## 🎀 Preview
 
-*Screenshots coming soon!*
+<p align="center">
+  <img src="screenshots/app.jpg" width="220">
+  <img src="screenshots/Screenshot1.jpg" width="220">
+  <img src="screenshots/Screenshot From 2026-11-13 19-55-54.png" width="220">
+</p>
 
 ## 💌 Credits
 
@@ -55,13 +59,7 @@ This project was created by **@lyluxs**, combining functionality with a lovely v
 
 Made with ♡, a little creativity and lots of meows.
 
-## 🎀 Screenshots
 
-<p align="center">
-  <img src="screenshots/calculator.jpg" width="220">
-  <img src="screenshots/app-icon.jpg" width="220">
-  <img src="screenshots/calculator-final.png" width="220">
-</p>
 
 ---
 
