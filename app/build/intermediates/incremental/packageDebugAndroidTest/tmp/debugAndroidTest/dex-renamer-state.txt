@@ -1,0 +1,4 @@
+#Fri Nov 13 20:59:46 GMT-03:00 2026
+base.0=/home/lyluxs/Descargas/Calculator_Chocola_Android(1)/Calculator_Chocola_Android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,4 @@
+com.lyluxs.chocolacalculator.test.app-androidTest-0 /home/lyluxs/Descargas/Calculator_Chocola_Android(1)/Calculator_Chocola_Android/app/build/generated/res/resValues/androidTest/debug
+com.lyluxs.chocolacalculator.test.app-mergeDebugAndroidTestResources-1 /home/lyluxs/Descargas/Calculator_Chocola_Android(1)/Calculator_Chocola_Android/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.lyluxs.chocolacalculator.test.app-mergeDebugAndroidTestResources-2 /home/lyluxs/Descargas/Calculator_Chocola_Android(1)/Calculator_Chocola_Android/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.lyluxs.chocolacalculator.test.app-debugAndroidTest-3 /home/lyluxs/Descargas/Calculator_Chocola_Android(1)/Calculator_Chocola_Android/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
